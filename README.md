@@ -40,8 +40,8 @@ Think of me as a translator: I speak fluent **developer** 💻, native **busines
 - **Data & Automation**: Data Science principles, advanced MS Excel, Business Process Management (BPM) suites, eDiscovery platforms.
 - **Development Foundation**: BS in Computer Science (Java, C++, database management, systems architecture).
 
-### 🗣️ Languages
-- **English** (Native/Bilingual) | **Tagalog** (Native/Bilingual) | **Hiligaynon** (Native/Bilingual)
+### 🗣️ Native Languages
+- **English** | **Tagalog** | **Hiligaynon**
 
 ---
 
