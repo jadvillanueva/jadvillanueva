@@ -2,9 +2,9 @@
 
 ### 🚀 Bridging Business Intent & Technology Execution | Master's Candidate in Information Systems Management @ Stanton University
 
-I am a digital transformation strategist and tech enthusiast dedicated to solving complex operational challenges, optimizing business workflows, and coordinating cross-functional teams to build impactful software solutions. I specialize in taking messy, manual, paper-based processes and converting them into sleek, automated platforms. 
+#### I am a digital transformation strategist and tech enthusiast dedicated to solving complex operational challenges, optimizing business workflows, and coordinating cross-functional teams to build impactful software solutions. I specialize in taking messy, manual, paper-based processes and converting them into sleek, automated platforms. 
 
-Think of me as a translator: I speak fluent **developer** 💻, native **business stakeholder** 👔, and conversant **user** 👥.
+#### Think of me as a translator: I speak fluent **developer** 💻, native **business stakeholder** 👔, and conversant **user** 👥.
 
 ---
 
