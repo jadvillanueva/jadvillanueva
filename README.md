@@ -21,13 +21,13 @@
 ## 🛠️ Expertise & Toolkit
 
 ### 🌟 Core Focus Areas
-![Business Translation](https://img.shields.io/badge/Business%20To%20Tech%20Translation-007ACC?style=flat-square&logo=gitbook&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6F42C1?style=flat-square&logo=githubcopilot&logoColor=white)
-![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-008080?style=flat-square&logo=diagrams.net&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process%20Automation%20%26%20BPM-FF8C00?style=flat-square&logo=integromat&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20%26%20Insights-339933?style=flat-square&logo=python&logoColor=white)
-![Cybersecurity Policy](https://img.shields.io/badge/Cybersecurity%20%26%20Governance-E53935?style=flat-square&logo=1password&logoColor=white)
+![Business Translation](https://img.shields.io/badge/Business%20To%20Tech%20Translation-007ACC?style=for-the-badge&logo=gitbook&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6F42C1?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-008080?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Process%20Automation%20%26%20BPM-FF8C00?style=for-the-badge&logo=integromat&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20%26%20Insights-339933?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity Policy](https://img.shields.io/badge/Cybersecurity%20%26%20Governance-E53935?style=for-the-badge&logo=1password&logoColor=white)
 
 ### 📊 Methodologies & Frameworks
 - **Agile Project Management**: Sprint planning, roadmap execution, playbook creation, cross-functional collaboration.
@@ -42,6 +42,17 @@
 
 ### 🗣️ Native Languages
 - **English** | **Tagalog** | **Hiligaynon**
+
+---
+
+## 📂 Featured Projects & Repositories
+
+Here are a few of my recent public projects showcasing my work in AI and software development:
+
+- 🤖 **[kaggle-ai-agents-capstone](https://github.com/jadvillanueva/kaggle-ai-agents-capstone)**
+  - *Kaggle 5-Day AI Agents Intensive Course with Google: Intensive Vibe Coding Capstone Project.* This repository demonstrates practical implementation of agentic AI and LLM-driven workflows.
+- 📚 **[mism605-study-buddy](https://github.com/jadvillanueva/mism605-study-buddy)**
+  - *Academic Study Buddy for MISM605.* A project developed to streamline studies, coursework, and information management for the Information Systems Management master's program.
 
 ---
 
