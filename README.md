@@ -83,11 +83,10 @@ Here is a summary of the core business and technical impacts delivered across my
 
 ### 🏆 Certifications
 - ☁️ **Cloud Digital Leader** – *Google Cloud*
-- 🤖 **Generative AI Leader** – *Generative AI Certification*
-- 🛡️ **Security Operations Center (SOC) Bootcamp** – *SOC Training*
+- 🤖 **Generative AI Leader** – *Google Cloud*
+- 🛡️ **CS50 Cybersecurity** – *Harvard University*
+- 🔒 **Cybersecurity Job Simulation** – *Mastercard*
 - 🟢 **Lean Six Sigma Green Belt** – *Convergys*
-- 🟡 **Lean Six Sigma Yellow Belt** – *Convergys*
-- ⚪ **Lean Six Sigma White Belt** – *TeleTech*
 - 📈 **Introduction to Data Science** – *Microsoft*
 
 ---
