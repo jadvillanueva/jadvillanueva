@@ -1,15 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Outfit:wght@300;400;500;700&display=swap');
-  
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif !important;
-  }
-  
-  p, li, ul, ol, table, tr, td, th, div, span, a {
-    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
-  }
-</style>
-
 # Hi, I'm Jad Villanueva 👋
 
 ## 🚀 Bridging Business Intent & Technology Execution | Master's Candidate in Information Systems Management @ Stanton University
